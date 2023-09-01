@@ -4,8 +4,7 @@ layout: home
 
 hero:
   name: "Bruce Green"
-  text: "Bruce Green"
-  tagline: My great project tagline
+  tagline: Software Engineering Leader
   actions:
     - theme: brand
       text: Markdown Examples

@@ -22,7 +22,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'linkedin', link: 'www.linkedin.com/in/bruce-green' },
+      { icon: 'github', link: 'https://github.com/bwgz' }
     ]
   }
 })
